@@ -129,4 +129,4 @@ metrics(test_Y, predictions_resampled.round())
 4. Final model achieved better balance between precision and recall
 ```
 
-This markdown version preserves all the code blocks and explanations while making it suitable for documentation in platforms like GitHub or documentation systems that support markdown.
+

@@ -83,7 +83,7 @@ X = dataframe.drop(["Class"], axis=1)
 We'll train different models on our dataset to observe which algorithm performs better for this binary classification problem (predicting fraud vs genuine transactions). Potential algorithms include:
 
 - Random Forest
-  ![image](https://github.com/user-attachments/assets/65d1e533-85a0-4817-bc55-508ede48b830)
+
 - Decision Tree
   ![image](https://github.com/user-attachments/assets/3ad16c15-1b06-426b-8da2-9e37a949d62a)
 

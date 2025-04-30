@@ -127,6 +127,5 @@ metrics(test_Y, predictions_resampled.round())
 2. SMOTE oversampling significantly improved fraud detection
 3. Random Forest outperformed Decision Tree
 4. Final model achieved better balance between precision and recall
-```
 
 
